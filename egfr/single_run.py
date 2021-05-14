@@ -72,7 +72,9 @@ def train_validate_united(train_dataset,
             # Forward
             opt.zero_grad()
             outputs = united_net(non_mord_ft, mord_ft, mat_ft)
-
+            
+            outputs = torch.squeeze(outputs)
+            
             loss = criterion(outputs, label)
             train_losses.append(float(loss.item()))
             train_outputs.extend(outputs)
@@ -90,10 +92,12 @@ def train_validate_united(train_dataset,
             non_mord_ft = non_mord_ft.view((-1, 1, 150, 42)).float().to(val_device)
             mat_ft = non_mord_ft.squeeze(1).float().to(train_device)
             label = label.float().to(val_device)
-
+            
             with torch.no_grad():
                 outputs = united_net(non_mord_ft, mord_ft, mat_ft)
-
+                
+                outputs = torch.squeeze(outputs)
+                
                 loss = criterion(outputs, label)
                 val_losses.append(float(loss.item()))
                 val_outputs.extend(outputs)
