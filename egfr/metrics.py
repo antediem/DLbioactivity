@@ -1,7 +1,7 @@
 
 import numpy as np
 import sklearn.metrics as metrics
-THRESH = 0.8
+THRESH = 0.2
 
 
 def auc(y_true, y_scores):
