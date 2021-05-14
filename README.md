@@ -69,5 +69,11 @@ Bibtex:
 ```
 ## Related papers
 
+CNN+SMILES feature matrix:
 https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2523-5
+
+Artificial Intelligence in Biological Activity Prediction:
 https://sci-hub.do/https://doi.org/10.1007/978-3-030-23873-5_20
+
+DB:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6367519/
