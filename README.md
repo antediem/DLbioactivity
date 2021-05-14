@@ -57,6 +57,8 @@ Please cite our study:
 Pham, H.N., & Le, T.H. (2019). Attention-based Multi-Input Deep Learning Architecture for Biological Activity Prediction: An Application in EGFR Inhibitors. ArXiv, abs/1906.05168.
 ```
 
+https://arxiv.org/pdf/1906.05168.pdf
+
 Bibtex:
 ```
 @article{Pham2019AttentionbasedMD,
