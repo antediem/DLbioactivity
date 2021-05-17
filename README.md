@@ -81,6 +81,9 @@ https://sci-hub.do/https://doi.org/10.1007/978-3-030-23873-5_20
 DB:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6367519/
 
+Transformers for SMILES bioactivity:
+https://arxiv.org/abs/1911.04738v1
+https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00423-w
 ## Project deliverables
 
 Here is what we expect from you  in two weeks by Friday, May 28th
