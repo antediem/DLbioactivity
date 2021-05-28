@@ -13,7 +13,7 @@ Multi-Layer Perceptron, transformer-based architectures and graph convolution
 network (GCN) with two different convolution operators. 
 As a result, we compared all models for binary and multi-class classification of biological activity, 
 where the graph convolution network outperforms other deep learning methods for our datasets.
-###Team members
+### Team members
 
 Anastasia Sarycheva
 Daria Chaplygina
@@ -21,7 +21,7 @@ Alexey Voskoboinikov
 Roman Bychkov
 Sayan Protasov
 
-###Brief repository overview
+### Brief repository overview
 
 * `/notebooks` - the main directory where all jupyter notebooks with models are stored
    * `/datasets` - subdirectory where files associated with the dataset are stored
@@ -29,7 +29,7 @@ Sayan Protasov
    * `/pretrained_transformer` - subdirectory where files associated with the transformer model are stored
    
 
-###Notebooks
+### Notebooks
 The following Google Colab compatible Jupyter notebooks with models are available:
 
 * `Model_1D_CNN.ipynb` - CNN with 1D convolutional operator
@@ -41,6 +41,6 @@ The following Google Colab compatible Jupyter notebooks with models are availabl
 * `run_Pham2019_v2_ourDS.ipynb` - baseline notebook on our datasets
 
 
-###Requirements
+### Requirements
 
 The code is set up so that it can be easily run with Google Colab.
