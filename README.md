@@ -15,11 +15,11 @@ As a result, we compared all models for binary and multi-class classification of
 where the graph convolution network outperforms other deep learning methods for our datasets.
 ### Team members
 
-Anastasia Sarycheva
-Daria Chaplygina
-Alexey Voskoboinikov
-Roman Bychkov
-Sayan Protasov
+* Anastasia Sarycheva
+* Daria Chaplygina
+* Alexey Voskoboinikov
+* Roman Bychkov
+* Sayan Protasov
 
 ### Brief repository overview
 
