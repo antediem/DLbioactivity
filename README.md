@@ -40,6 +40,9 @@ The following Google Colab compatible Jupyter notebooks with models are availabl
 * `run_Pham2019.ipynb` - [baseline notebook](https://github.com/lehgtrung/egfr-att "Named link title")
 * `run_Pham2019_v2_ourDS.ipynb` - baseline notebook on our datasets
 
+### Datasets
+All the datasets can be downloaded from here:
+https://drive.google.com/drive/folders/1xpdrOMRxinYNCcNohQWPE3T-2La5bXOB?usp=sharing
 
 ### Requirements
 
